@@ -11,6 +11,11 @@
     font-weight: 400;
     src: url('./fonts/Jost-Regular.ttf') format('woff');
 }
+.fixed {
+    position: fixed;
+    left: 0;
+    right: 0;
+}
 
 * {
     margin: 0;
